@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "test": "node test.js"
   }
 }
